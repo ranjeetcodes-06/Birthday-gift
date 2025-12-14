@@ -33,7 +33,7 @@ body {
     align-items: center;
 }
 
-.gift-img {
+.gift-img2{
     width: 400px;
     height: 400px;
     border: 6px solid white;
@@ -60,22 +60,23 @@ body {
 
 }
 
+.gift-img2:hover{
+    background-image:url("images/hello.jpeg");
+    
 
-.gift-img2{
+
+.gift-img{
     width: 400px;
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("OIP.webp");
+    background-image: url("images/sigma.jpeg");
     background-size: cover;
     margin: 0 auto;
 
 }
 
-.gift-img2:hover{
 
-    background-image: url("sigma.jpeg");
-}
 
 
 .gift-title2{
@@ -91,6 +92,7 @@ body {
     color: aqua;
 
 }
+
 
 
 
