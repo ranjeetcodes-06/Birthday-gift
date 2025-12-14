@@ -38,7 +38,7 @@ body {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("OIP.webp");
+    background-image: url("/images/OIP.webp");
     background-size: cover;
     margin: 0 auto;
 
@@ -55,7 +55,7 @@ body {
 
 .gift-img:hover{
         
-        background-image: url("OIP.jpeg");
+        background-image: url("images/sigma.jpeg");
     
 
 }
@@ -89,4 +89,5 @@ body {
 
 .gift-title:hover{
     color: aqua;
+
 }
