@@ -1,0 +1,92 @@
+
+body {
+    text-align: center;
+    font-family: 'happy monkey', cursive;
+    background:linear-gradient(rgb(110, 206, 233),rgba(135, 207, 235, 0.111));
+    color: white;
+
+}
+
+#bff {
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid pink;
+}
+
+#bday-age {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+
+#bday-date {
+    background: #EFB0C9;
+    margin: 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-img {
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("OIP.webp");
+    background-size: cover;
+    margin: 0 auto;
+
+}
+
+.gift-section {
+    margin-top: 50px;
+
+}
+
+.gift-title {
+    margin-bottom: 10px;
+} 
+
+.gift-img:hover{
+        
+        background-image: url("OIP.jpeg");
+    
+
+}
+
+
+.gift-img2{
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("OIP.webp");
+    background-size: cover;
+    margin: 0 auto;
+
+}
+
+.gift-img2:hover{
+
+    background-image: url("sigma.jpeg");
+}
+
+
+.gift-title2{
+
+   color: black;
+}
+
+.gift-title2:hover{
+    color: blue;
+}
+
+.gift-title:hover{
+    color: aqua;
+}
