@@ -38,7 +38,7 @@ body {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("/images/OIP.webp");
+    background-image: url("/images/hello.jpeg");
     background-size: cover;
     margin: 0 auto;
 
@@ -91,3 +91,4 @@ body {
     color: aqua;
 
 }
+
