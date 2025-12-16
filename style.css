@@ -38,7 +38,7 @@ body {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("/bcard.jpeg");
+    background-image: url("bcard_logo.jpeg");
     background-size: cover;
     margin: 0 auto;
 
@@ -55,7 +55,7 @@ body {
 
 .gift-img:hover{
         
-        background-image: url("/images/hello.jpeg");
+        background-image: url("hello_logo.jpeg");
     
 
 }
@@ -66,7 +66,7 @@ body {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("/card.jpg");
+    background-image: url("card_logo.jpg");
     background-size: cover;
     margin: 0 auto;
 
@@ -74,7 +74,7 @@ body {
 
 .gift-img2:hover{
 
-    background-image: url("/images/sigma.jpeg");
+    background-image: url("sigma_logo.jpeg");
 }
 
 
@@ -90,3 +90,4 @@ body {
 .gift-title:hover{
     color: aqua;
 }
+
