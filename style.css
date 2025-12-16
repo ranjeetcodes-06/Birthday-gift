@@ -53,10 +53,12 @@ body {
     margin-bottom: 10px;
 } 
 
-
 .gift-img:hover{
-    background-image:url("/images/hello.jpeg");
+        
+        background-image: url("/images/hello.jpeg");
     
+
+}
 
 
 .gift-img2{
@@ -69,14 +71,11 @@ body {
     margin: 0 auto;
 
 }
-    .gift-img2:hover{
-        
-        background-image: url("/images/sigma.jpeg");
-    
 
+.gift-img2:hover{
+
+    background-image: url("/images/sigma.jpeg");
 }
-
-
 
 
 .gift-title2{
@@ -90,11 +89,4 @@ body {
 
 .gift-title:hover{
     color: aqua;
-
 }
-
-
-
-
-
-
