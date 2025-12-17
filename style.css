@@ -4,6 +4,8 @@ body {
     font-family: 'happy monkey', cursive;
     background:linear-gradient(rgb(110, 206, 233),rgba(135, 207, 235, 0.111));
     color: white;
+    margin:0;
+    padding:0;
 
 }
 
@@ -90,6 +92,7 @@ body {
 .gift-title:hover{
     color: aqua;
 }
+
 
 
 
